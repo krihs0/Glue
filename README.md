@@ -15,6 +15,7 @@ De huidige site staat momenteel online en kan ook gebruikt worden door mensen. W
 
 ***
 [Huidige-Site](https://glue.amsterdam/)
+
 [Admin-Pagina](https://glue.amsterdam/wp-login.php)
 
 ### Tools
