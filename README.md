@@ -30,6 +30,6 @@ De huidige site staat momenteel online en kan ook gebruikt worden door mensen. W
 ### Opdrachten
 
 ***
-[Week-1-Opdracht](https://mediacollegeamsterdam.sharepoint.com/:w:/t/SD-F3M7BO-Opdrachtgevers20212022-GLUE/EXG2vF-6tklHjgA6hfi89HYBvDWMUjCurYKNrPnwOxzK8w?e=RgtwyL)
+[Week-1-Opdracht](https://mediacollegeamsterdam.sharepoint.com/:w:/r/teams/SD-F3M7BO-Opdrachtgevers20212022-GLUE/Gedeelde%20documenten/GLUE/De-briefing%20en%20vaststelling%20project%20GLUE_Robin_schoenmaker_en_Kris_ockers.docx?d=w0c317d0de69349d197cbf9b9bdf3af36&csf=1&web=1&e=NaVa2A)
 
 [Week-2-Opdracht](https://mediacollegeamsterdam.sharepoint.com/:w:/t/SD-F3M7BO-Opdrachtgevers20212022-GLUE/EUI-O9HhUeJIikzLaPvhQ10Be33a4NwGWx4hhtwQ69Joew?e=sueKm5)
