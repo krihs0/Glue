@@ -5,6 +5,8 @@
 
 <p>&nbsp;</p>  
 
+Wij zullen niet heel veel gaan programeren dit project en zeker deze periode nog niet. Wanneer wij gaan programmeren zal dat waarschijnlijk in de wordpress console zijn. Als we niet in wordpress programeren gebruiken ik en robin voor PHP graag PHPStorm en voor de rest Visual Studio.
+
 ### Tools
 
 ***
@@ -22,10 +24,3 @@
 
 [Week-2-Opdracht](https://mediacollegeamsterdam.sharepoint.com/:w:/t/SD-F3M7BO-Opdrachtgevers20212022-GLUE/EUI-O9HhUeJIikzLaPvhQ10Be33a4NwGWx4hhtwQ69Joew?e=sueKm5)
 
-<style>
-    h1 {
-        margin: 0;
-        padding: 0 ;
-        border-bottom:none;
-    }
-</style>
