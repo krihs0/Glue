@@ -1,5 +1,5 @@
 
-[Dutch-version](README_NL.md)
+[Dutch-version ](README_NL.md) (:point_left:) :point_left:
 
 # Glue route system
 
@@ -7,7 +7,7 @@
 
 ### Way of building
 
-w
+( :point_left: )
 
 ### Site
 
