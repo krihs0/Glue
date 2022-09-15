@@ -36,7 +36,9 @@ Robin also created a paywall page wich was eventually not used.
 ***
 
 Along the way we were also asked to fix some things that went wrong on the website. One of these thing were the dissapeared css of the info bubbles on the maps. For that Kris created the below linked pieces of code wich the staff of glue can use for making the info bubbles.
+
 [HUB-template.html]((%20HUB%20-%20Template%20).html)
+
 [Temporary-HUB-template.html]((%20Temporary%20-%20HUB%20-%20Template%20).html)
 <br>
 
